@@ -1,140 +1,172 @@
-
 # Hi, I'm NARE VIGNESH 👋
 
-### AI/ML • Generative AI • Agentic AI • Full-Stack Development
+**AI/ML | Generative AI | Agentic AI | Full-Stack Development**
 
-B.Tech student specializing in **Artificial Intelligence and Machine
-Learning**. I build practical AI applications and explore how machine
-learning, LLMs, RAG, and agentic workflows can solve real problems.
+B.Tech student specializing in Artificial Intelligence and Machine Learning at Mohan Babu University.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://narevignesh.github.io/Vignesh_Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/narevignesh)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/narevignesh)
-:::👨‍💻 About Me
-- 🎓 B.Tech in Artificial Intelligence and Machine Learning at
-  Mohan Babu University.
-- 🤖 Primary focus: AI/ML, Generative AI, LLM applications, and
-  Agentic AI.
-- 🧠 Interested in RAG pipelines, embeddings, semantic search, and
-  multi-agent workflows.
-- 🌐 Also build full-stack applications, REST APIs, and
-  database-backed systems.
-- 🛠️ I learn by building, testing, debugging, and improving practical
-  projects.
+I am passionate about building intelligent applications using Machine Learning, Generative AI, Large Language Models, and Agentic AI. My primary focus is exploring AI technologies and developing practical solutions that combine intelligent systems with modern software development.
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech in Artificial Intelligence and Machine Learning.
+- 🤖 Primary focus on AI/ML, Generative AI, LLMs, and Agentic AI.
+- 🧠 Interested in building intelligent applications and AI-powered automation.
+- 🔍 Exploring RAG architectures, embeddings, vector databases, and multi-agent systems.
+- 🌐 Interested in full-stack development and AI application integration.
+- 💡 Passionate about learning new technologies and solving real-world problems.
 - 📍 Andhra Pradesh, India.
-🧠 Technical Skills
-Artificial Intelligence & Machine Learning
 
+## 🧠 Technical Skills
 
+### Artificial Intelligence & Machine Learning
+- Machine Learning
+- Supervised Learning
+- Classification Algorithms
+- Data Preprocessing
+- Feature Engineering
+- Model Training and Evaluation
+- Random Forest
+- Naive Bayes
+- TF-IDF
+- Scikit-learn
+- TensorFlow
+- Pandas
+- NumPy
+- NLTK
 
-
-
-
-- Supervised machine learning, data preprocessing, feature extraction,
-  and classification
-- Random Forest, Naive Bayes, TF-IDF, and text classification
-- Model training, evaluation, and serialization with Joblib/Pickle
-Generative AI & Agentic AI
-
-
-
-
-
-- Large Language Models (LLMs) and LLM APIs
-- Prompt engineering and context-aware prompting
+### Generative AI & Agentic AI
+- Large Language Models (LLMs)
+- Generative AI
+- Prompt Engineering
 - Retrieval-Augmented Generation (RAG)
-- Text embeddings and semantic retrieval
-- Vector search and databases: FAISS, ChromaDB
-- Agent workflows and multi-agent systems
-- LangChain, LangGraph, and LangSmith
-- Hugging Face embeddings
-- Working with Gemini, Groq, and GPT-based models
-Programming Languages
+- AI Agents and Multi-Agent Systems
+- LangChain
+- LangGraph
+- LangSmith
+- Text Embeddings
+- Semantic Search
+- Vector Databases
+- FAISS
+- ChromaDB
+- Hugging Face Embeddings
+- Gemini, Groq and GPT APIs
 
+### Programming Languages
+- Python
+- Java
+- JavaScript
+- SQL
+- HTML
+- CSS
 
+### Frameworks & Development
+- React
+- Django
+- Flask
+- FastAPI
+- Streamlit
+- REST API Development
+- Backend Development
+- Frontend Development
 
+### Databases
+- MySQL
+- MongoDB
+- PostgreSQL
+- Microsoft SQL Server
 
+### Tools & Platforms
+- Git
+- GitHub
+- Visual Studio Code
+- Jupyter Notebook
+- Google Antigravity
 
+## 💼 Experience
 
-Frameworks & Development
+**Generative AI Intern – AatonovaZ Technologies Pvt. Ltd.**
 
+February 2026 – August 2026
 
+- Worked on AI workflows involving audio and video processing.
+- Worked with transcription-related AI workflows.
+- Supported API and tool integrations.
+- Assisted with output validation and troubleshooting.
+- Improved prompts and workflows through iterative testing.
 
+## 🔬 Currently Exploring
 
+### Artificial Intelligence & Machine Learning
+- Advanced Machine Learning algorithms.
+- Deep Learning architectures and neural networks.
+- Model optimization and hyperparameter tuning.
+- Model evaluation and performance improvement.
+- Natural Language Processing (NLP).
+- Computer Vision and image understanding.
+- Time Series Analysis and predictive modelling.
+- Machine Learning model deployment.
 
-- Frontend development with React
-- Backend development with Django, Flask, and FastAPI
-- REST API development and integration
-- Interactive AI application interfaces with Streamlit
-Databases
+### Generative AI & LLM Engineering
+- Advanced LLM architectures and capabilities.
+- LLM application development.
+- Retrieval-Augmented Generation optimization.
+- Advanced prompt engineering techniques.
+- Embedding models and semantic retrieval.
+- Vector database optimization.
+- Hybrid search and reranking techniques.
+- Context management and conversational memory.
+- LLM evaluation and response quality testing.
+- AI model integration and inference optimization.
 
+### Agentic AI & AI Automation
+- Multi-agent architectures.
+- LangGraph workflows and state management.
+- Agent planning and decision-making.
+- Tool calling and function calling.
+- Autonomous task execution.
+- Human-in-the-loop AI systems.
+- Agent memory and context handling.
+- Multi-step workflow orchestration.
+- AI-powered automation systems.
 
+### AI Infrastructure & Model Integration
+- Open-source LLMs.
+- Hugging Face model ecosystem.
+- Model routing and provider integration.
+- API management and fallback mechanisms.
+- Cost-efficient AI model selection.
+- Local and cloud-based model deployment.
+- AI application reliability and monitoring.
 
+### Full-Stack & Software Engineering
+- Advanced Python development.
+- Backend architecture using FastAPI and Django.
+- React application development.
+- REST API design and integration.
+- Database design and optimization.
+- Authentication and authorization.
+- Scalable application architecture.
+- Software testing, debugging and validation.
+- Git workflows and collaborative development.
+- Deployment and application monitoring.
 
-Tools & Platforms
+## 🎯 Career Interests
 
+- AI/ML Engineer
+- Generative AI Engineer
+- Agentic AI Developer
+- LLM Application Developer
+- Machine Learning Engineer
+- AI Software Engineer
+- Full-Stack AI Developer
 
+## 🤝 Connect With Me
 
-
-- Git, GitHub, VS Code, Jupyter Notebook, Google Antigravity
-- API integration, debugging, and iterative testing
-🚀 Featured Projects
-1. EduSync Agents
-Python · LangChain · LangGraph · Groq API · Streamlit
-
-A multi-agent learning assistant with specialized Research, Quiz, and
-Explainer agents. - Uses agent handoffs and tool integrations for
-task-oriented workflows. - Includes search and mathematical tools. -
-Focuses on structured, interactive learning support.
-2. RAG Chat
-Python · Hugging Face Embeddings · FAISS · Groq API · Streamlit
-
-A document question-answering application built using
-Retrieval-Augmented Generation. - Processes documents and generates text
-embeddings. - Retrieves relevant content through FAISS vector search. -
-Uses retrieved context to support grounded LLM responses.
-3. SMS Spam Detection
-Python · Scikit-learn · TF-IDF · Multinomial Naive Bayes · Flask
-
-A text-classification application that predicts whether an SMS is spam
-or legitimate. - Preprocesses message text and extracts TF-IDF
-features. - Applies a Multinomial Naive Bayes classifier. - Provides
-predictions through a Flask interface.
-4. Diabetes Prediction Application
-Python · Scikit-learn · Machine Learning · Web Application
-
-A machine-learning application concept for predicting diabetes risk from
-user-provided parameters, combining a classification model with an
-application interface.
-5. NEXORA -- AI Assistant
-FastAPI · React · TypeScript · Vite · OmniRoute
-
-An AI assistant project focused on natural-language interaction and
-task-oriented assistance. The system brings together a Python backend,
-desktop-style interface, and model-routing layer. It is being developed
-iteratively, with attention to multilingual interaction and cost-aware
-model selection.
-💼 Experience
-Generative AI Intern --- AatonovaZ Technologies Pvt. Ltd.
-February 2026 -- August 2026
-- Worked on AI workflows involving audio/video processing and
-  transcription.
-- Supported API and tool integration within AI workflows.
-- Helped validate generated outputs and troubleshoot workflow issues.
-- Refined prompts and workflows through iterative testing.
-📚 Currently Exploring
-- Reliable RAG application design
-- Multi-agent systems with LangGraph
-- LLM application evaluation and output validation
-- Machine-learning model deployment
-- Full-stack architecture for AI-powered products
-🤝 Connect With Me
 - Portfolio: https://narevignesh.github.io/Vignesh_Portfolio/
 - LinkedIn: https://linkedin.com/in/narevignesh
 - GitHub: https://github.com/narevignesh
 - Email: vigneshnaidu022@gmail.com
-::: {align="center"}
-**Building intelligent solutions through AI, one project at a time.**
 
-⭐ Explore my repositories and connect with me.
-:::
+---
+
+**Building intelligent solutions through AI, continuous learning, and software engineering.**
