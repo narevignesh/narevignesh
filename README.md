@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # Hi, I'm NARE VIGNESH 👋
 
 ### AI/ML • Generative AI • Agentic AI • Full-Stack Development
